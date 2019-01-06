@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Андрей Чеканников on 06/01/2019.
-//  Copyright © 2019 Андрей Чеканников. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
